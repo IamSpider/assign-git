@@ -1,4 +1,11 @@
 • What is a gitignore file and what should it include for a Java project?
+It is used to tell Git not to keep track of files or folders specified like node_modules or .class files in java.
+
 • What does fast-forward in Git mean?
+Fast forwarding as name suggests, it fast forwards pointer to the new head if there are no commits by the main/master branch.
+
 • Why should you have different branches?
+To work simultaneously in different modules and increase work efficiency.
+
 • In a project how many remote Git repositories do you usually have?
+One. We cannot merge or combine tracking of more than one repositories.
